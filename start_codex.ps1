@@ -6,14 +6,17 @@ Write-Host "/sandbox-add-read-dir D:\Cthis"
 Write-Host ""
 Write-Host "/status"
 Write-Host ""
+Write-Host "樣板好copy"
 Write-Host "Copy-Item "D:\Cthis\book01.cpp" "D:\CodexStudy\Copy_book01.cpp""
 Write-Host ""
+Write-Host "告訴自己的_請看"
+Write-Host ""
+Write-Host "1. CLion Ctrl + S 存檔
+2. Codex 複製 D:\Cthis\xxx.cpp 到 D:\CodexStudy\Copy_xxx.cpp
+3. Codex 只讀 Copy_xxx.cpp
+4. 你貼第一個 error
+5. Codex 解釋錯因 + 最小修改"
 
-Write-Host "原始檔不要碰。
-複製品可以改。
-每次只解一個 why。
-修改前先解釋。
-修改後寫 learning_log.md。"
 
 
 
