@@ -8,7 +8,7 @@ Write-Host ""
 Write-Host ""
 Write-Host "告訴自己的_請看"
 Write-Host ""
-"
+
 
 
 
