@@ -1,3 +1,2 @@
 @echo off
-powershell -NoProfile -ExecutionPolicy Bypass -File "D:\Cthis\start_codex.ps1"
-pause
+powershell.exe -NoExit -NoProfile -ExecutionPolicy Bypass -File "D:\Cthis\start_codex.ps1"
